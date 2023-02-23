@@ -1,0 +1,5 @@
+v1 kodları.....
+system.out.print.ln
+
+
+v2 kodları
